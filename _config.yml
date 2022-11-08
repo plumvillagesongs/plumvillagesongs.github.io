@@ -10,7 +10,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    : https://plumvillagesong.app                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/appicon.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : To nourish our collective joy, we offer music from the Plum Village community in a new format - online.
@@ -24,11 +24,11 @@ your_name                                 : Plum Village Music Team
 your_link                                 : https://plumvillagesong.app                    
 your_city                                 : Thailand                                
 email_address                             : pvsongs@plumvillage.org
-facebook_username                         :                                           
-instagram_username                        : plumvillagesongs.app
-twitter_username                          : plumvillagesongs.app
-github_username                           : plumvillagesongs.app
-youtube_username                          : plumvillagesongs.app
+facebook_username                         : plumvillagesongs                            
+instagram_username                        : plumvillagesongs
+twitter_username                          : plumvillagesongs
+github_username                           : plumvillagesongs
+youtube_username                          : plumvillagesongs
 
 
 
