@@ -35,7 +35,7 @@ youtube_username                          : plumvillagesongs
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Song list
+  - title                                 : + 200 songs in various languages
     description                           : List all songs
     fontawesome_icon_name                 : magic
     
