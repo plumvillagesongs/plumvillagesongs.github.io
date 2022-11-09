@@ -15,7 +15,11 @@
 			{% endif %}
 			<div class="divider"></div>
 		</div>
-		<p class="headerText"><img class="headerText" src="{{ site.app_header_name }}" </p>
+		{% if page.url != '/' %}
+			<p class="headerText"><img class="headerText" src="black-{{ site.app_header_name }}" </p>
+		{% else %}
+			<p class="headerText"><img class="headerText" src="white-{{ site.app_header_name }}" </p>
+		{% endif %}
 		<!-- <p class="headerName">{{ site.app_name }}</p> -->
 	</div>
 	<nav class="scroll">

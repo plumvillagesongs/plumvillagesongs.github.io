@@ -136,8 +136,6 @@ header {
 .headerText {
 	width: auto;
 	height: 50px;
-	-webkit-clip-path: url(#shape);
-	clip-path: url(#shape);
 	-webkit-filter: grayscale(1) invert(1);
 	filter: grayscale(1) invert(1);
 }
