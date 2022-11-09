@@ -39,11 +39,11 @@ youtube_username                          : plumvillagesongs
 features                                  :
 
   - title                                 : + 200 songs in various languages
-    description                           : List all songs availabel in Vietnamese, English and Thai
+    description                           : List all songs available in Vietnamese, English and Thai
     fontawesome_icon_name                 : magic
     
-  - title                                 : Read song lyrics
-    description                           : Read song lyrics with chord, music sheet
+  - title                                 : Sing a song together
+    description                           : Song's lyric is available with chord for guitarist, and music sheet for singer
     fontawesome_icon_name                 : mobile
 
   - title                                 : Listen to music
