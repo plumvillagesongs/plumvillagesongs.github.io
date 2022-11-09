@@ -15,10 +15,12 @@
 			{% endif %}
 			<div class="divider"></div>
 		</div>
+		{% assign app_header_path = site.app_header_name | split: "/" %}
 		{% if page.url != '/' %}
-			<p class="headerText"><img class="headerText" src="black-{{ site.app_header_name }}" </p>
+		
+			<p class="headerText"><img class="headerText" src="{{ app_header_path[0] }}/black-{{ app_header_path[1] }}" </p>
 		{% else %}
-			<p class="headerText"><img class="headerText" src="white-{{ site.app_header_name }}" </p>
+			<p class="headerText"><img class="headerText" src="{{ app_header_path[0] }}/white-{{ app_header_path[1] }}" </p>
 		{% endif %}
 		<!-- <p class="headerName">{{ site.app_name }}</p> -->
 	</div>
