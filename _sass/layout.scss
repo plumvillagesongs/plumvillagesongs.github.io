@@ -133,6 +133,13 @@ header {
 	clip-path: url(#shape);
 }
 
+.headerText {
+	width: auto;
+	height: 50px;
+	-webkit-clip-path: url(#shape);
+	clip-path: url(#shape);
+}
+
 @media only screen and (max-width: 768px) {
 
 	.divider {
