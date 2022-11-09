@@ -12,7 +12,7 @@ presskit_download_link                    : https://plumvillagesong.app         
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_header_name                           : assets/plumvillagesong.png
+app_header_name                           : assets/plumvillage.png
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : To nourish our collective joy, we offer music from the Plum Village community in a new format - online.
 
