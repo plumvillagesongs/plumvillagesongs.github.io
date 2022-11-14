@@ -1,22 +1,23 @@
 ---
 layout: page
-title: What's New
+title: Có gì mới
 include_in_header: true
 ---
 
-### `Initial Release`
-# **Version 1.0.0**
-- List bài hát:
-   - Hiển thị danh sách theo category: favorite, song list 
+### `Phiên bản khởi tạp`
+# **Phiên bản 1.0.0**
+- Danh sáhc bài hát:
+   - Hiển thị danh sách theo danh mục, yêu thích
    - tìm kiếm theo tên, theo lời bài hát
 - Thiền ca 
-   - Danh sách các chord và chord chart cho guitar
-   - Hiển thị lời bài hát và chord
+   - Danh sách các hợp âm và thế bấm cho guitar
+   - Hiển thị lời bài hát và hợp âm
+   - Chuyển đổi ngôn ngữ lời bài hát (nếu có)
    - Thêm vào yêu thích
    - Đổi tông (tăng/giảm)
-   - Bật/tắt auto-scroll
-   - Play nhạc nếu có file audio
-   - Hiển thị music sheets
+   - Bật/tắt tự động cuộn
+   - Phát nhạc nếu có audio
+   - Hiển thị sheet nhạc
 - Hỗ trợ giao diện ngôn ngữ tiếng Việt
 - Hỗ trợ iphone và android phone
 <br>
