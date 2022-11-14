@@ -29,4 +29,4 @@ Cho nên người hát thiền ca và người nghe hát rất quan trọng. N�
 Cho nên một bài thiền ca đúng với ý nghĩa của nó phải chuyên chở được cả ba yếu tố: Bụt, Pháp, Tăng. Người hát thiền ca có tu tập vững chãi, có giọng hát và phong thái đầy chất thiền, đôi khi chỉ cần hát một bài hát thiền cũng có thể giúp cho người nghe phát tâm tu học, và muốn thực tập bài hát trong đời sống hằng ngày để chuyển hóa khổ đau, lấy lại được niềm vui sống, và có thêm tin yêu nơi chính mình, nơi cuộc đời.
 <br>
 
-###### ![Alt text](/assets/pages/suco.png =200x200)  
+###### ![Alt text](/assets/pages/suco.png) { width=200px }
