@@ -980,6 +980,15 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
   padding-left: 128px!important;
 }
 
+.markdown-body img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-size: cover;
+    /* border-style: none; */
+    background-position: top;
+}
 .index-headline {
   border-top: 1px solid #dededc;
   margin: 0;
