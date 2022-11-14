@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 ### `Về Thiền Ca`
+#** Sư Cô Quy Nghiêm**
 
 Thiền ca là một pháp môn mình tưởng là mới mẻ của Làng Mai, thực ra, đây là một truyền thống thiền được Làng Mai ứng dụng một cách sáng tạo và rộng rãi, để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn về ý nghĩa của đời sống và làm cho đời sống lành hơn, đẹp hơn, giàu sang hơn.
 
@@ -22,3 +23,4 @@ Cùng với bài hát mình thực tập thở vào thở ra có ý thức, làm
 Cho nên người hát thiền ca và người nghe hát rất quan trọng. Nếu người hát và người nghe hát không biết tu tập thì khó mà chuyển đạt và tiếp nhận được ý nghĩa của một bài thiền ca, và có thể làm mất hết tác dụng của bài thiền ca, dù bài thiền ca nhạc và lời có hay đến mấy. Cũng như pháp của Bụt dù rất thực tiễn và lợi lạc, và Bụt là một bậc giác ngộ tuyệt vời, mà không có một tăng thân tu tập cho đàng hoàng, cho vững chãi thì khó mà mình tiếp xúc được với chánh pháp, tiếp xúc được với Bụt. Cho nên mình mới hiểu vì sao vua Ba Tư Nặc nói với Bụt rằng: “Khi con nhìn tăng đoàn của Ngài, người nào cũng bình an vững chãi, niềm tin của con nơi Ngài thêm kiên cố”.
 
 Cho nên một bài thiền ca đúng với ý nghĩa của nó phải chuyên chở được cả ba yếu tố: Bụt, Pháp, Tăng. Người hát thiền ca có tu tập vững chãi, có giọng hát và phong thái đầy chất thiền, đôi khi chỉ cần hát một bài hát thiền cũng có thể giúp cho người nghe phát tâm tu học, và muốn thực tập bài hát trong đời sống hằng ngày để chuyển hóa khổ đau, lấy lại được niềm vui sống, và có thêm tin yêu nơi chính mình, nơi cuộc đời.
+<br>
