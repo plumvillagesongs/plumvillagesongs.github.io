@@ -2,10 +2,11 @@
 layout: page
 title: Về Thiền Ca
 include_in_header: true
+writtenby: Sư cô Quy Nghiêm
+writtenimg: quynghiem.png
 ---
 
 ### `Về Thiền Ca`
-# **Sư Cô Quy Nghiêm**
 
 Thiền ca là một pháp môn mình tưởng là mới mẻ của Làng Mai, thực ra, đây là một truyền thống thiền được Làng Mai ứng dụng một cách sáng tạo và rộng rãi, để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn về ý nghĩa của đời sống và làm cho đời sống lành hơn, đẹp hơn, giàu sang hơn.
 
