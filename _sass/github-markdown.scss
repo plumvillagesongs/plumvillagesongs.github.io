@@ -979,3 +979,13 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 .markdown-body .pl-12 {
   padding-left: 128px!important;
 }
+
+.index-headline {
+  border-top: 1px solid #dededc;
+  margin: 0;
+  padding: 16px 0; }
+  .index-headline span {
+    color: #b3b3b1;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px; }
