@@ -4,7 +4,9 @@ title: Thực tập Thiền Ca
 include_in_header: true
 ---
 
-### `Thiền ca là một sự thực tập`
+# `Thiền ca là một sự thực tập`
+
+###### Trích "Mùa Hợp Tấu" - 2018
 
 Thiền ca là những bài hát có công năng nuôi dưỡng chánh niệm và làm lớn lên hạnh phúc cho người thực tập. Những bài hát nào khi hát lên ta cảm thấy thân tâm khỏe nhẹ, an lành và giúp ta trở về tiếp xúc với sự sống mầu nhiệm thì đều được gọi là thiền ca. Thiền ca là một sự cống hiến của Tăng thân Làng Mai cho quá trình hiện đại hóa đạo Bụt. Lời của thiền ca được lấy ra từ những kinh văn và các bài xướng tán hoặc là những thiền ngữ hay nhưng lời thơ, ý tứ của các hành giả, ghi lại những kinh nghiệm và niềm an vui trong khi thực tập. Còn nhạc thì được diễn đạt bằng những giai điệu thanh thoát, vui tươi và giải thoát chứ không phải là thứ âm nhạc chứa nhiều chất ủy mị và hệ lụy mà người đời ưa sử dụng.
 
@@ -15,5 +17,5 @@ Ví dụ ta hát câu “ta hạnh phúc liền giây phút này, lòng đã quy
 Với thiền ca văn nghệ không còn mang tính tiêu khiển trần tục mà trở thành thứ văn nghệ có tính cách nuôi dưỡng và trị liệu. Thiền ca được các thầy, các sư cô và các vị cư sĩ thuộc các tu viện và đạo tràng tăng thân Làng Mai thực tập rất thường xuyên. Và nó cũng đang giúp cho biết bao nhiêu người tìm lại được hạnh phúc và an lành trong mỗi câu hát, câu thơ chánh niệm. 
 
 Hy vọng với sự thực tập hết lòng chúng ta sẽ làm được như lời cầu nguyện của Thầy chúng ta 
-# **“Để pháp âm tiếp nối bằng lời ca tiếng em thơ"**
+> “Để pháp âm tiếp nối bằng lời ca tiếng em thơ"
 <br>
