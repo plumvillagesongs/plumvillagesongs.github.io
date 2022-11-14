@@ -8,7 +8,7 @@ writtenimg: quynghiem.png
 
 ## `Về Thiền Ca`
 ###### Viết bởi
-![Alt text](/assets/pages/sucoquynghiem.png)
+![Alt text](/assets/pages/sucoquynghiem.png) {#id .image_center}  
 ###### Sư Cô Quy Nghiêm
 
 Thiền ca là một pháp môn mình tưởng là mới mẻ của Làng Mai, thực ra, đây là một truyền thống thiền được Làng Mai ứng dụng một cách sáng tạo và rộng rãi, để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn về ý nghĩa của đời sống và làm cho đời sống lành hơn, đẹp hơn, giàu sang hơn.
@@ -29,4 +29,4 @@ Cho nên người hát thiền ca và người nghe hát rất quan trọng. N�
 Cho nên một bài thiền ca đúng với ý nghĩa của nó phải chuyên chở được cả ba yếu tố: Bụt, Pháp, Tăng. Người hát thiền ca có tu tập vững chãi, có giọng hát và phong thái đầy chất thiền, đôi khi chỉ cần hát một bài hát thiền cũng có thể giúp cho người nghe phát tâm tu học, và muốn thực tập bài hát trong đời sống hằng ngày để chuyển hóa khổ đau, lấy lại được niềm vui sống, và có thêm tin yêu nơi chính mình, nơi cuộc đời.
 <br>
 
-![Alt text](/assets/pages/suco.png =200x200)
+![Alt text](/assets/pages/suco.png =200x200) {#id .image_center}  
