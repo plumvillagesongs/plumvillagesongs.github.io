@@ -19,3 +19,5 @@ Với thiền ca văn nghệ không còn mang tính tiêu khiển trần tục m
 Hy vọng với sự thực tập hết lòng chúng ta sẽ làm được như lời cầu nguyện của Thầy chúng ta 
 > “Để pháp âm tiếp nối bằng lời ca tiếng em thơ"
 <br>
+
+###### ![img_](/assets/pages/sing.png)
