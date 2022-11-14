@@ -13,7 +13,7 @@ presskit_download_link                    : #https://plumvillagesong.app        
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 favicon                                   : assets/icon.ico
 app_url                                   : https://www.plumvillagesong.app 
-app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Thiền Ca Làng Mai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
 app_price                                 : Miễn phí                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Thiền ca là những bài hát có công năng nuôi dưỡng chánh niệm và làm lớn lên hạnh phúc cho người thực tập. Những bài hát nào khi hát lên ta cảm thấy thân tâm khỏe nhẹ, an lành và giúp ta trở về tiếp xúc với sự sống mầu nhiệm thì đều được gọi là thiền ca. 
