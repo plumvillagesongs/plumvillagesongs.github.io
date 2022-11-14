@@ -4,9 +4,9 @@ title: Có gì mới
 include_in_header: true
 ---
 
-### `Phiên bản khởi tạp`
+### `Phiên bản khởi tạo`
 # **Phiên bản 1.0.0**
-- Danh sáhc bài hát:
+- Danh sách bài hát:
    - Hiển thị danh sách theo danh mục, yêu thích
    - tìm kiếm theo tên, theo lời bài hát
 - Thiền ca 

@@ -16,7 +16,7 @@ app_url                                   : https://www.plumvillagesong.app
 app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
 app_price                                 : Miễn phí                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Thiền ca là những bài hát có công năng nuôi dưỡng chánh niệm và làm lớn lên hạnh phúc cho người thực tập. Những bài hát nào khi hát lên ta cảm thấy thân tâm khỏe nhẹ, an lành và giúp ta trở về tiếp xúc với sự sống mầu nhiệm thì đều được gọi là thiền ca. Thiền ca là một sự cống hiến của Tăng thân Làng Mai cho quá trình hiện đại hóa đạo Bụt. Lời của thiền ca được lấy ra từ những kinh văn và các bài xướng tán hoặc là những thiền ngữ hay nhưng lời thơ, ý tứ của các hành giả, ghi lại những kinh nghiệm và niềm an vui trong khi thực tập. Còn nhạc thì được diễn đạt bằng những giai điệu thanh thoát, vui tươi và giải thoát chứ không phải là thứ âm nhạc chứa nhiều chất ủy mị và hệ lụy mà người đời ưa sử dụng.
+app_description                           : Thiền ca là những bài hát có công năng nuôi dưỡng chánh niệm và làm lớn lên hạnh phúc cho người thực tập. Những bài hát nào khi hát lên ta cảm thấy thân tâm khỏe nhẹ, an lành và giúp ta trở về tiếp xúc với sự sống mầu nhiệm thì đều được gọi là thiền ca. 
 
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
