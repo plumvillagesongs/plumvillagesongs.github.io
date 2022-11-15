@@ -17,7 +17,7 @@ function carousel() {
 </script>
 {% for file in site.static_files %}
     {% if file.path contains 'assets/screenshot/' %}
-        <img class=".iphoneScreen w3-animate-fading" src="{{ site.github.baseurl }}{{ file.path }}" style="width:100%">
+        <img class="iphoneScreen w3-animate-fading" src="{{ site.github.baseurl }}{{ file.path }}" style="width:100%">
         <script>
             $(function() {
                 $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
