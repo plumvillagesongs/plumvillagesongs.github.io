@@ -11,7 +11,7 @@ presskit_download_link                    : #https://plumvillagesong.app        
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appstore.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-favicon                                   : assets/icon.ico
+favicon                                   : assets/pvsongs.ico
 app_url                                   : https://www.plumvillagesong.app 
 app_name                                  : Thiền Ca Làng Mai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
