@@ -6,7 +6,8 @@ carousel();
 function carousel() {
   var i;
   var x = document.getElementsByClassName("iphoneScreen");
-  for (i = 0; i < x.length; i++) {
+  x[0].style.display = "block";
+  for (i = 1; i < x.length; i++) {
     x[i].style.display = "none";  
   }
   myIndex++;
