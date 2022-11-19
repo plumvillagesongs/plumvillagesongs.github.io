@@ -695,10 +695,10 @@ footer {
 }
 
 .w3-animate-fading {
-	animation:fading 1s; 
-    -moz-animation: fading 1s; /* Firefox */
-    -webkit-animation: fading 1s; /* Safari and Chrome */
-    -o-animation: fading 1s; /* Opera */
+    animation: fading 1s infinite; 
+    -moz-animation: fading 1s infinite; /* Firefox */
+    -webkit-animation: fading 1s infinite; /* Safari and Chrome */
+    -o-animation: fading 1s infinite; /* Opera */
 }
 
 @keyframes fading {
