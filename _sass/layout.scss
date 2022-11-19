@@ -20,6 +20,13 @@
 	background-color: rgba($header-color, $header-transparency);
 }
 
+.headerText {
+	width: auto;
+	height: 50px;
+	-webkit-filter: grayscale(1) invert(1);
+	filter: grayscale(1) invert(1);
+}
+
 @media only screen and (max-width: 768px) {
 
 	.headerBackground {
@@ -323,6 +330,7 @@ nav > ul li a:active {
 
 .appDescription {
 	color: $app-description-color;
+	font-size: large;
 }
 
 @media only screen and (max-width: 992px) {
@@ -348,7 +356,7 @@ nav > ul li a:active {
 } 
 
 .playStore {
-	height: 75px;
+	height: 60px;
 	margin-right: 24px;
 }
 
@@ -371,7 +379,7 @@ nav > ul li a:active {
 } 
 
 .appStore {
-	height: 75px;
+	height: 60px;
 }
 
 
