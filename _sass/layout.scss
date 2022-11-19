@@ -702,17 +702,17 @@ footer {
 }
 
 @keyframes fading {
-	0% { opacity:0.2 }
+	0% { opacity:0.1 }
 	50% { opacity:1 }
-	100% { opacity:0.2 }
+	100% { opacity:0.1 }
 }
 @-webkit-keyframes fading { /* Safari and Chrome */
-    0% { opacity:0.2 }
+    0% { opacity:0.1 }
 	50% { opacity:1 }
-	100% { opacity:0.2 }
+	100% { opacity:0.1 }
 }
 @-o-keyframes fading { /* Opera */
-    0% { opacity:0.2 }
+    0% { opacity:0.1 }
 	50% { opacity:1 }
-	100% { opacity:0.2 }
+	100% { opacity:0.1 }
 }
