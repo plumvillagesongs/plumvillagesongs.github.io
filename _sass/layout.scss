@@ -392,10 +392,19 @@ nav > ul li a:active {
 	background-size: 400px auto;
 	background-repeat: no-repeat;
 	margin-top: 68px;
+	
+}
+
+.iScreen {
+	width: 349px;
+	-webkit-clip-path: url(#screenMask);
+	clip-path: url(#screenMask);
+	margin-left: 26px;
+	margin-top: 23px;
 	animation: fading 6s;
-    	-moz-animation: fading 6s; /* Firefox */
-    	-webkit-animation: fading 6s; /* Safari and Chrome */
-    	-o-animation: fading 6s; /* Opera */
+    -moz-animation: fading 6s; /* Firefox */
+    -webkit-animation: fading 6s; /* Safari and Chrome */
+    -o-animation: fading 6s; /* Opera */
 }
 
 .iphoneScreen {
@@ -404,10 +413,10 @@ nav > ul li a:active {
 	clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
-	# animation: fading 6s;
-    #-moz-animation: fading 6s; /* Firefox */
-    #-webkit-animation: fading 6s; /* Safari and Chrome */
-    #-o-animation: fading 6s; /* Opera */
+	animation: fading 6s;
+    -moz-animation: fading 6s; /* Firefox */
+    -webkit-animation: fading 6s; /* Safari and Chrome */
+    -o-animation: fading 6s; /* Opera */
 }
 
 .videoContainer {
