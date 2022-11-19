@@ -396,7 +396,6 @@ nav > ul li a:active {
 }
 
 .iScreen {
-	width: 349px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
 	animation: fading 6s;
@@ -406,8 +405,11 @@ nav > ul li a:active {
 }
 
 .iphoneScreen {
+	width: 349px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
+	margin-left: 26px;
+	margin-top: 23px;
 	#animation: fading 6s;
     #-moz-animation: fading 6s; /* Firefox */
     #-webkit-animation: fading 6s; /* Safari and Chrome */
