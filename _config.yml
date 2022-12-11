@@ -92,6 +92,8 @@ cover_image                               : https://langmaithailan.org/wp-conten
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.5
 image-overlay-color                       : "#DDC78E"
+
+footer_text_color                         : "#666666"
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
@@ -109,9 +111,7 @@ feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#EBEDEF"
 
 social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#F2F2F2"
-
-footer_text_color                         : "#666666"
+social_icons_background_color             : "#f2f2f2"
 
 
 
