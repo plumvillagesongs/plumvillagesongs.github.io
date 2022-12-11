@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thực tập Thiền Ca
+title: Practice
 include_in_header: true
 ---
 
