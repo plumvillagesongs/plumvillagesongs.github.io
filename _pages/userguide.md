@@ -2,6 +2,7 @@
 layout: page
 title: Hướng dẫn sử dụng
 include_in_header: false
+include_in_footer: true
 ---
 
 # Hướng dẫn sử dụng
