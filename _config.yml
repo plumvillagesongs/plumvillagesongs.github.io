@@ -3,9 +3,9 @@ page_title                                :  Plum Village Songs - From Sangha fo
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : vn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/us/app/app-store-connect/id1234793120?platform=iphone                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/us/app/plum-village-songs/id6444259770?platform=iphone                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=app.plumvillagesongs                                          # Enter Google Play Store URL.
 presskit_download_link                    : #https://plumvillagesong.app                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -15,7 +15,7 @@ favicon                                   : /assets/appicon4.ico
 app_url                                   : https://www.plumvillagesong.app 
 app_name                                  : Thiền Ca Làng Mai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
-app_price                                 : Miễn phí                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Thiền ca là một pháp môn mình tưởng là mới mẻ của Làng Mai, thực ra, đây là một truyền thống thiền được Làng Mai ứng dụng một cách sáng tạo và rộng rãi, để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn về ý nghĩa của đời sống và làm cho đời sống lành hơn, đẹp hơn, giàu sang hơn. 
 
 
@@ -38,22 +38,36 @@ youtube_username                          : #plumvillagesongs
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : + 200 bài thiền ca
-    description                           : Dưới nhiều ngôn ngữ khác nhau như Tiếng Việt, Tiếng Anh, Tiếng Thái
+  - title                                 : + 200 Plum Villge songs
+    description                           : with lyrics in your languages
     fontawesome_icon_name                 : magic
     
-  - title                                 : Cùng hát thiền ca trong các buổi sinh hoạt Tăng thân
-    description                           : Lời bài hát cùng với hợp âm và music sheet 
+  - title                                 : Lyrics with chords and music sheets
+    description                           : Help you learn and sing the song with Sangha
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Nghe thiền ca
-    description                           : Phát các bài thiền ca 
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Listen to the music
+    description                           : Play music in multiple langagues
+    fontawesome_icon_name                 : play-circle 
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+#  - title                                 : # New Feature Title
+#    description                           : # New Feature Description
+#    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+#  - title                                 : + 200 bài thiền ca
+#    description                           : Dưới nhiều ngôn ngữ khác nhau như Tiếng Việt, Tiếng Anh, Tiếng Thái
+#    fontawesome_icon_name                 : magic
+    
+#  - title                                 : Cùng hát thiền ca trong các buổi sinh hoạt Tăng thân
+#    description                           : Lời bài hát cùng với hợp âm và music sheet 
+#    fontawesome_icon_name                 : mobile
+
+#  - title                                 : Nghe thiền ca
+#    description                           : Phát các bài thiền ca 
+#    fontawesome_icon_name                 : play-circle
+
+#  - title                                 : # New Feature Title
+#    description                           : # New Feature Description
+#    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
