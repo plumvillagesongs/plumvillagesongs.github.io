@@ -40,23 +40,23 @@ youtube_username                          : langmaithailan
 features                                  :
   - title                                 : + 200 Plum Villge songs
     description                           : with lyrics in your languages (Vietnamese, Thai, English)
-    fontawesome_icon_name                 : list
+    fontawesome_icon_name                 : file-lines
     
   - title                                 : Lyrics with chords 
     description                           : Play song with chord chart 
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : c
     
   - title                                 : Sheets music
     description                           : Help you learn and sing the song with Sangha
-    fontawesome_icon_name                 : sliders
+    fontawesome_icon_name                 : music
 
   - title                                 : Listen to the music
     description                           : Play music in multiple langagues (Vietnamese, Thai, English)
-    fontawesome_icon_name                 : play-circle 
+    fontawesome_icon_name                 : headphones 
 
   - title                                 : Multiple chord position
     description                           : Adapt your music style
-    fontawesome_icon_name                 : music
+    fontawesome_icon_name                 : guitar
     
   - title                                 : Auto scroll
     description                           : Scroll from the top of the chord chart to the bottom like a teleprompter.
