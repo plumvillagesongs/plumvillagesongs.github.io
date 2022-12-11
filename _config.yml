@@ -48,7 +48,7 @@ features                                  :
     
   - title                                 : Sheets music
     description                           : Help you learn and sing the song with Sangha
-    fontawesome_icon_name                 : file-audio-o
+    fontawesome_icon_name                 : sliders
 
   - title                                 : Listen to the music
     description                           : Play music in multiple langagues (Vietnamese, Thai, English)
