@@ -42,9 +42,13 @@ features                                  :
     description                           : with lyrics in your languages (Vietnamese, Thai, English)
     fontawesome_icon_name                 : list
     
-  - title                                 : Lyrics with chords and music sheets
-    description                           : Help you learn and sing the song with Sangha
+  - title                                 : Lyrics with chords 
+    description                           : Play song with chord chart 
     fontawesome_icon_name                 : mobile
+    
+  - title                                 : Sheets music
+    description                           : Help you learn and sing the song with Sangha
+    fontawesome_icon_name                 : file-audio-o
 
   - title                                 : Listen to the music
     description                           : Play music in multiple langagues (Vietnamese, Thai, English)
