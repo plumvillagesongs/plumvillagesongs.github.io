@@ -13,7 +13,7 @@ presskit_download_link                    : #https://plumvillagesong.app        
 app_icon                                  : /assets/appicon4.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 favicon                                   : /assets/appicon4.ico
 app_url                                   : https://www.plumvillagesong.app 
-app_name                                  : Thiền Ca Làng Mai                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
 app_price                                 : Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Thiền ca là một pháp môn mình tưởng là mới mẻ của Làng Mai, thực ra, đây là một truyền thống thiền được Làng Mai ứng dụng một cách sáng tạo và rộng rãi, để quần chúng đương thời, nhất là giới trẻ, có thể tiếp xúc dễ dàng với giáo pháp của Bụt, giúp cho mình ý thức hơn về ý nghĩa của đời sống và làm cho đời sống lành hơn, đẹp hơn, giàu sang hơn. 
