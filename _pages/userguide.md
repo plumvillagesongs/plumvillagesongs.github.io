@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hướng dẫn sử dụng
+title: App User Guide
 include_in_header: false
 include_in_footer: true
 ---
