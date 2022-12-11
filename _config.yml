@@ -40,7 +40,7 @@ youtube_username                          : #plumvillagesongs
 features                                  :
   - title                                 : + 200 Plum Villge songs
     description                           : with lyrics in your languages (Vietnamese, Thai, English)
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : list
     
   - title                                 : Lyrics with chords and music sheets
     description                           : Help you learn and sing the song with Sangha
