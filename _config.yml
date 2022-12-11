@@ -39,7 +39,7 @@ youtube_username                          : #plumvillagesongs
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : + 200 Plum Villge songs
-    description                           : with lyrics in your languages
+    description                           : with lyrics in your languages (Vietnamese, Thai, English)
     fontawesome_icon_name                 : magic
     
   - title                                 : Lyrics with chords and music sheets
@@ -47,12 +47,16 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Listen to the music
-    description                           : Play music in multiple langagues
+    description                           : Play music in multiple langagues (Vietnamese, Thai, English)
     fontawesome_icon_name                 : play-circle 
 
   - title                                 : Multiple chord position
-    description                           : Adapt your style
-    fontawesome_icon_name                 : play-circle 
+    description                           : Adapt your music style
+    fontawesome_icon_name                 : music
+    
+  - title                                 : Auto scroll
+    description                           : Scroll from the top of the chord chart to the bottom like a teleprompter.
+    fontawesome_icon_name                 : hourglass
     
 #  - title                                 : # New Feature Title
 #    description                           : # New Feature Description
