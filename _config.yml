@@ -12,7 +12,7 @@ presskit_download_link                    : #https://plumvillagesong.app        
 
 app_icon                                  : /assets/appicon4.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 favicon                                   : /assets/appicon4.ico
-app_url                                   : https://www.plumvillagesong.app 
+app_url                                   : https://www.plumvillagesongs.app 
 app_name                                  : Plum Village Songs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_header_name                           : assets/plumvillage.png
 app_price                                 : Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
@@ -25,7 +25,7 @@ app_keywords                              : mindfulness song, practice song, thi
 
 # Information About Yourself
 your_name                                 : Plum Village Music Team                               
-your_link                                 : https://www.plumvillagesong.app                    
+your_link                                 : https://www.plumvillagesongs.app                    
 your_city                                 : Thailand                             
 email_address                             : pvsongs@plumvillage.org
 facebook_username                         : langmaithailan.org                            
