@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Có gì mới
-include_in_header: true
+include_in_header: false
 ---
 
 ### `Phiên bản khởi tạo`
