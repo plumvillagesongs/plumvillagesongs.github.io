@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Plum Village Songs
+title: Về Thiền Ca
 include_in_header: true
 writtenby: Sư cô Quy Nghiêm
 writtenimg: quynghiem.png
