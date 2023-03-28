@@ -2,7 +2,7 @@
 layout: page
 title: About Plum Village Songs
 include_in_header: false
-writtenby: Sư cô Quy Nghiêm
+writtenby: Sister Chân Quy Nghiêm
 writtenimg: quynghiem.png
 ---
 
@@ -10,14 +10,14 @@ writtenimg: quynghiem.png
 ###### ![](/assets/pages/sucoquynghiem.png) 
 ###### Sister Chân Quy Nghiêm
 
-People usually think that mindfulness song singing is that is a new practice in Plum Village. Actually, it is a meditation tradition that Plum Village creatively and widely applies so that contemporary people, especially young people, can easily access the Buddha's teachings. It helps them become more conscious of the meaning of life and makes their lives better, more beautiful, and more abundant.
+"Thiền ca" is a meditation practice that was thought to be a new concept of Plum Village. In reality, it is a creative and extensive application of meditation tradition by Plum Village, which helps people, especially young generations, to easily connect with Buddha's teachings and increase their awareness of the meaning of life. This practice helps individuals to have a better, beautiful, and prosperous life.
 
-In the practice of meditation, the monks and nuns recite sutras while ringing bells, striking wooden fish, playing chimes, etc. Nowadays, this is understood as "thiền ca," a form of practice that helps practitioners internalize the Buddha's teachings, like drops of dew falling onto the soil of their hearts, nourishing the good seeds and continuing to water them so that they grow strong and blossom, making life more beautiful.
+In the meditation practice, the master recites various verses while "thỉnh chuông" (inviting the bell), "mõ" (striking the wooden fish), "linh" (inviting the spirit), "tang" (reciting the sutra), etc. Now, it is known as "thiền ca", a form of practice that allows individuals to deeply absorb Buddha's teachings and scriptures. The verses are like holy drops that fall into one's heart, nurturing good seeds, and continuing to water them until they grow into strong and blooming flowers, making life more beautiful and vibrant.
 
-When I first came to Plum Village in the summer of 1987, I heard the song "Awareness is the Sunlight" sung by the singer Ha Thanh in a tape player. I was deeply moved, as if I were waking up from a deep sleep. The Buddha said that we suffer because we cannot see the way, as there are countless paths in life. If we are not lucky enough to meet the Buddha and be guided by him, we are likely to get lost.
+When I first visited Plum Village in the summer of 1987, I heard the song "Ý thức em mặt trời tỏ rạng" ("Awareness shining like the sun") sung by Ha Thanh. The song deeply touched, as I felt like waking up from a deep sleep. Buddha said that people suffer because they cannot find their way, as the path of life has countless twists and turns. Without the luck of meeting Buddha and receiving his guidance, we may easily get lost.
 
-Therefore, a meditation song should have gentle lyrics and music that blend together like the Buddha's intention, with the effect of awakening us from our slumber, no longer writhing in sorrow. The song "Breathing In, Breathing Out" is a basic song that I like to sing in many languages to remind me to wake up and take care of my body and mind before I start doing something or saying something. Only then can I avoid making mistakes that cause myself and others to suffer.
+Therefore, a meditation song must have gentle and harmonious lyrics and music, reflecting Buddha's intention to guide individuals towards peace. "May thay trong cõi ta bà, đâu cũng có cánh tay đức Từ Bi cứu độ" ("Fortunately, in this world, everywhere there are the merciful hands of bodhisattva Avalokitesvara to save us"). If individuals do not practice to achieve the awareness shining like the sun, they will hardly see the finger pointing the way of Buddha and will not have the determination to follow his path to attain freedom.
 
-Together with the song, I practice conscious breathing, making my mind and body calm and cool, firm as a mountain, tranquil as a lake, and spacious as the sky, without any distractions. The singer and the listener must truly live with what they are singing or hearing so that the good seeds within each person are truly nourished and grow strong, bearing flowers and fruit for themselves and others.
+Thus, a meditation song must awaken individuals from their slumber, remove their sorrow, and remind them to care for their mind and body before doing or saying anything. The song "Thở vào thở ra" ("Breathing in, breathing out") is a basic song that I loves to sing in various languages to remind them to wake up and take care of their inner selves. This practice helps to calm the mind, refresh it like flowers, and make it sturdy like mountains, peaceful like lakes, and expansive like space, free from any entanglement. The singer and the listener must genuinely live in what they sing and hear to nourish good seeds within themselves and offer flowers and fruits to themselves and others.
 
 ###### ![Alt text](/assets/pages/suco.png)
