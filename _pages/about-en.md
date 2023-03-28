@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Plum Village Songs
-include_in_header: false
+include_in_header: true
 writtenby: Sister Chân Quy Nghiêm
 writtenimg: quynghiem.png
 ---
