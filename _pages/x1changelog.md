@@ -3,6 +3,22 @@ layout: page
 title: What's new
 include_in_header: true
 ---
+### `Tablet version`
+# **Version 1.2.0**
+- Song
+   - Chord for piano
+   - Play music in background
+- Supported phone and tablet
+<br>
+
+### `Online version`
+# **Version 1.1.0**
+- Song listing
+   - Auto-update for new songs
+   - Show/hide chord
+   - Multiline/singleline  chord
+- Supported song languages: English, Vietnamese, Thai, French, Indonesia, Japanese, Chinese, Italia, Espagne
+<br>
 
 ### `Initial version`
 # **Version 1.0.0**
@@ -15,7 +31,7 @@ include_in_header: true
    - Change song language
    - Add to favorite
    - Change tone (increase/decrease)
-   - On/off auto-scroll
+   - On/off auto-scroll on tap
    - Play audio if having
    - Display music sheet if having
 - Supported languages: English
