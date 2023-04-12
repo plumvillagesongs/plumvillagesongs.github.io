@@ -8,6 +8,7 @@ include_in_header: true
 - Song
    - Chord for piano
    - Play music in background
+   - Lyric copy with long press on screen
 - Supported phone and tablet
 <br>
 
