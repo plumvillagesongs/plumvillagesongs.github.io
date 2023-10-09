@@ -38,8 +38,8 @@ youtube_username                          : langmaithailan
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-  - title                                 : + 200 Plum Villge songs
-    description                           : with lyrics in your languages (Vietnamese, Thai, English)
+  - title                                 : + 200 Plum Village songs
+    description                           : with lyrics in over 10 languages 
     fontawesome_icon_name                 : align-justify
     
   - title                                 : Lyrics with chords 
